@@ -1,10 +1,15 @@
 {
   "name": "react-native-animated-placeholder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native animated placeholder for both Android & iOS platforms using react native reanimated.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/ranveerching/react-native-animated-placeholder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranveerching/react-native-animated-placeholder"
   },
   "keywords": [
     "react-native",
