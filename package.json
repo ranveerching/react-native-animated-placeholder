@@ -1,0 +1,34 @@
+{
+  "name": "react-native-animated-placeholder",
+  "version": "1.0.0",
+  "description": "React native animated placeholder for both Android & iOS platforms using react native reanimated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react component",
+    "react native component",
+    "react",
+    "react native",
+    "react native reanimated",
+    "react-native-reanimated",
+    "react native redash",
+    "react-native-redash",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "animated",
+    "animated-placeholder",
+    "animated placeholder"
+  ],
+  "author": "Pankaj Sood <pankajhoney1991@gmail.com> (https://github.com/ranveerching)",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-redash": "^16.0.2"
+  }
+}
