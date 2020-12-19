@@ -20,7 +20,7 @@ animationType: 'overlay' // Specifies the animation type. Supports 'overlay' and
 ## ScreenShots
 
 ![Animated Placeholder iOS Demo](https://1.bp.blogspot.com/-ybvaApn9jJI/X93k5wGoVkI/AAAAAAAABco/4ZrhMWbzxIchA8R2vo5CyNhdj6uhBHORwCLcBGAsYHQ/w283-h640/animated-ios.gif)
-![Animated Placeholder Android Demo](https://1.bp.blogspot.com/-2ZPtH8n7Aks/X93k5sl5KHI/AAAAAAAABck/EECt93sh44UbrSB9UIYkv6v_lguN_UAtACLcBGAsYHQ/w259-h460/animated-android.gif)
+![Animated Placeholder Android Demo](https://1.bp.blogspot.com/-2ZPtH8n7Aks/X93k5sl5KHI/AAAAAAAABck/EECt93sh44UbrSB9UIYkv6v_lguN_UAtACLcBGAsYHQ/w283-h640/animated-android.gif)
 
 ## Usages Example
 
