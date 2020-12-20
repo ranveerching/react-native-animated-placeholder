@@ -18,6 +18,7 @@ yarn add react-native-animated-placeholder
 2. ```react-native-reanimated```.
 3. ```react-native-gesture-handler```.
 4. ```react-native-redash```.
+
 So make sure the above listed modules are installed and configured properly as well.
 
 ## Supported Props
@@ -33,7 +34,7 @@ animationType: 'overlay' // Specifies the animation type. Supports 'overlay' and
 ## ScreenShots
 
 ![Animated Placeholder iOS Demo](https://1.bp.blogspot.com/-ybvaApn9jJI/X93k5wGoVkI/AAAAAAAABco/4ZrhMWbzxIchA8R2vo5CyNhdj6uhBHORwCLcBGAsYHQ/w283-h640/animated-ios.gif)
-![Animated Placeholder Android Demo](https://1.bp.blogspot.com/-2ZPtH8n7Aks/X93k5sl5KHI/AAAAAAAABck/EECt93sh44UbrSB9UIYkv6v_lguN_UAtACLcBGAsYHQ/w300-h503/animated-android.gif)
+![Animated Placeholder Android Demo](https://1.bp.blogspot.com/-2ZPtH8n7Aks/X93k5sl5KHI/AAAAAAAABck/EECt93sh44UbrSB9UIYkv6v_lguN_UAtACLcBGAsYHQ/w360-h640/animated-android.gif)
 
 ## Usages Example
 
